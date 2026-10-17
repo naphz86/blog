@@ -1,4 +1,4 @@
-# blog - Ideen und Gedanken
+# blog
 
 Einheitliche Shared Library für C/C++:
 [unified-shared-library-proposal.md](unified-shared-library-proposal.md).
